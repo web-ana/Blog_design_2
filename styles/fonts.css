@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Product Sans";
+  src: url("/fonts/FontsFree-Net-ProductSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Product Sans Medium";
+  src: url("/fonts/FontsFree-Net-ProductSans-Medium.ttf");
+}
